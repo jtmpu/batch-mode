@@ -25,7 +25,7 @@ $ ./batch-mode.py new -c "path-brute -p 127.0.0.1:8000 -v" -r /fuzzdb/discovery/
 [+] Batch '13.batch' complete.
 [+] Batch '20.batch' complete.
 [+] Batch '21.batch' complete.
-[+] Batch '6.batch' complete.
+^C[+] Batch '6.batch' complete.
 [+] Quitting.
 ```
 
